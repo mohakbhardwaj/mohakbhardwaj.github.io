@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mohak Bhardwaj / Site Title"
+title                    : "Mohak Bhardwaj" #/ Site Title"
 title_separator          : "-"
 name                     : &name "Mohak Bhardwaj"
 description              : &description "personal description"

@@ -5,15 +5,18 @@ excerpt: "About me"
 author_profile: true
 redirect_from: 
 ---
-{% include base_path %}
+
 
 Publications
 ======
 
-{% include_relative publications.md %}
+{% include base_path %}
 
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-Getting started
+Project Work
 ======
 
 Create content & metadata

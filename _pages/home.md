@@ -32,7 +32,7 @@ Conference on Robot  Learning (CoRL),2017<br>
  <br>
  <br>
 
-<img src="images/data_driven_planning.png" alt="" width="300" height="300" align="left">
+<img src="images/data_driven_planning.png" alt="" width="300" height="300" align="left" hspace="20">
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
 International Journal on Robotics Research, 2017 (submitted)<br>
 <font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey<br>

@@ -14,7 +14,7 @@ Journal and Conference Publications
 ======
 
 <img src="images/mstile-70x70.png" alt="" width="100" height="100" align="left">
-<b>M. Bhardwaj</b>, S. Choudhury and S. Scherer, "<a href="">Learning Heuristic Search via Imitation</a>", Conference on Robot  Learning,(CoRL), 2017 [Proceedings](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf) [Presentation](../files/corl_ppt.pdf) [Website](https://goo.gl/YXkQAC)
+<b>M. Bhardwaj</b>, S. Choudhury and S. Scherer, "<a href="">Learning Heuristic Search via Imitation</a>", Conference on Robot  Learning,(CoRL), 2017 [[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
  <br>
  <br>
  <br>

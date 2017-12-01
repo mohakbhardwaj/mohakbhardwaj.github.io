@@ -20,20 +20,20 @@ Journal and Conference Publications
  <br>
 
 <img src="images/mstile-70x70.png" alt="" width="100" height="100" align="left">
-S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey, "<a href="">Data-driven Planning via Imitation Learning", International Journal on Robotics Research (submitted)</a> [PDF]() [Presentation]()
+S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey, "<a href="">Data-driven Planning via Imitation Learning", International Journal on Robotics Research (submitted)</a> [[Pre-print]](https://arxiv.org/abs/1711.06391)
   <br>
   <br>
   <br>
 
 <img src="images/mstile-70x70.png" alt="" width="100" height="100" align="left">
-P. Mithun, V.V. Anurag, <b>M. Bhardwaj</b>, S.V. Shah, "<a href="">Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot" [Proceedings](https://dl.acm.org/citation.cfm?id=2783480)
+P. Mithun, V.V. Anurag, <b>M. Bhardwaj</b>, S.V. Shah, "<a href="">Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot" [[Proceedings]](https://dl.acm.org/citation.cfm?id=2783480)
   <br>
   <br>
   <br>
+<br>
 
-Project Work
+Projects
 ======
 
-Create content & metadata
-------
+
 

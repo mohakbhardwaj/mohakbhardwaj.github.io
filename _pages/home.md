@@ -6,8 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
-I am Mohak Bhardwaj, currently a Robotics Engineer at 
-<a href="http://www.nearearth.aero/">Near Earth Autonomy</a>[], Inc working on real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer on the application of reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on motion plannig for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
+I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearearth.aero/">Near Earth Autonomy,Inc</a> working on  motion planning for real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer</a> on the application of reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on motion plannig for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
 </p>
 <br>
 

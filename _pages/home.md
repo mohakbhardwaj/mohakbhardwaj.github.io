@@ -24,17 +24,33 @@ This is a video of the invited long talk I gave at Conference on Robot Learning(
 Journal and Conference Publications
 ======
 
-<img src="images/visual_servoing.png" alt="" width="200" height="200" align="left"> **M. Bhardwaj**, S. Choudhury and S. Scherer, "[Learning Heuristic Search via Imitation, Conference on Robot  Learning,(CoRL), 2017]"(http://proceedings.mlr.press/v78/bhardwaj17a.html) [[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
+<img src="images/visual_servoing.png" alt="" width="200" height="200" align="left">**[Learning Heuristic Search via Imitation, Conference on Robot  Learning,(CoRL), 2017](http://proceedings.mlr.press/v78/bhardwaj17a.html)**
+
+**M. Bhardwaj**, S. Choudhury and S. Scherer
+
+[[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
  <br>
  <br>
  <br>
 
-<img src="images/data_driven_planning.png" alt="" width="200" height="200" align="left"> S. Choudhury, **M. Bhardwaj**, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey, "[Data-driven Planning via Imitation Learning, International Journal on Robotics Research, 2017 (submitted)](https://arxiv.org/pdf/1711.06391.pdf)" [[Pre-print]](https://arxiv.org/abs/1711.06391)
+<img src="images/data_driven_planning.png" alt="" width="200" height="200" align="left"> 
+
+**[Data-driven Planning via Imitation Learning, International Journal on Robotics Research, 2017 (submitted)(https://arxiv.org/pdf/1711.06391.pdf)** 
+
+S. Choudhury, **M. Bhardwaj**, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey
+
+[[Pre-print]](https://arxiv.org/abs/1711.06391)
   <br>
   <br>
   <br>
 
-<img src="images/visual_servoing.png" alt="" width="200" height="200" align="left"> P. Mithun, V.V. Anurag, **M. Bhardwaj**, S.V. Shah, "[Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot, Advances in Robotics (AIR), 2015](http://delivery.acm.org/10.1145/2790000/2783480/a31-mithun.pdf?ip=128.2.176.221&id=2783480&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=835725440&CFTOKEN=93115672&__acm__=1512100245_b4011bd3addc9630e032a7b5751e9162) [[Proceedings]](https://dl.acm.org/citation.cfm?id=2783480)" 
+<img src="images/visual_servoing.png" alt="" width="200" height="200" align="left"> 
+
+**[Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot, Advances in Robotics (AIR), 2015](http://delivery.acm.org/10.1145/2790000/2783480/a31-mithun.pdf?ip=128.2.176.221&id=2783480&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=835725440&CFTOKEN=93115672&__acm__=1512100245_b4011bd3addc9630e032a7b5751e9162)**
+
+P. Mithun, V.V. Anurag, **M. Bhardwaj**, S.V. Shah
+
+[[Proceedings]](https://dl.acm.org/citation.cfm?id=2783480)" 
   <br>
   <br>
   <br>

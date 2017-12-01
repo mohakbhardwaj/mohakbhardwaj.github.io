@@ -19,7 +19,7 @@ This is a video of the invited long talk I gave at Conference on Robot Learning(
 Journal and Conference Publications
 ======
 
-<img src="images/mstile-70x70.png" alt="" width="150" height="150" align="left"> **M. Bhardwaj**, S. Choudhury and S. Scherer, "[Learning Heuristic Search via Imitation, Conference on Robot  Learning,(CoRL), 2017]"(http://proceedings.mlr.press/v78/bhardwaj17a.html) [[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
+<img src="images/visual_servoing.png" alt="" width="150" height="150" align="left"> **M. Bhardwaj**, S. Choudhury and S. Scherer, "[Learning Heuristic Search via Imitation, Conference on Robot  Learning,(CoRL), 2017]"(http://proceedings.mlr.press/v78/bhardwaj17a.html) [[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
  <br>
  <br>
  <br>

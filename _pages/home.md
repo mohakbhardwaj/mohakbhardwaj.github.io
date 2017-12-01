@@ -13,7 +13,7 @@ I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearea
 Research Interests
 ======
 <p align="justify">
-Broadly, I am interested in machine learning and motion planning for autonomous robots. I am particularly excited about creating robots that can operate consistently for long amounts of time in complex environments. To this end, I am interested in the application of statistical techniques to create algorithms that can reason over long horizons, improve their performance from experience and adapt to changing data distributions and capabilities of the robot. I am also interested in ensuring safe operation while learning new skills by incorporating the robot's policy or model uncertainty into planning.   
+Broadly, I am interested in machine learning and motion planning for autonomous robots. I am particularly excited about creating robots that can operate consistently for long amounts of time in complex environments. To this end, I am interested in the application of statistical techniques to create algorithms that can reason over long horizons, improve their performance from experience and adapt to changing data distributions and capabilities of the robot. I am also interested in ensuring safe operation by incorporating the robot's policy or model uncertainty into planning.   
 </p>     
 <br>
 

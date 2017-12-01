@@ -9,16 +9,13 @@ redirect_from:
 This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/)
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
+
 Journal and Conference Publications
 ======
-
-<div class="bob">
+![alt text](../images/mstile-70x70.png"Logo Title Text 1")
   <img src="images/mstile-70x70.png" alt="" width="100" height="100" align="left">
   &#8226; <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer, "<a href="">Learning Heuristic Search via Imitation</a>", Conference on Robot  Learning,(CoRL), 2017 <a href="https://youtu.be/fKN1q-rkyLY">[PDF]</a> <a href="https://youtu.be/fKN1q-rkyLY">[Presentation]</a>
-  <br>
-  <br>
-  <br>
-  </div>
+
   
 <div class="bob">
   <img src="images/mstile-70x70.png" alt="" width="100" height="100" align="left">

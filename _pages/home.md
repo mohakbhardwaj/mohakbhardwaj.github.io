@@ -13,9 +13,7 @@ I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearea
 Research Interests
 ======
 <p align="justify">
-Broadly, I am interested in machine learning and motion planning for autonomous robots. I am particularly excited about creating robots that can operate consistently for long amounts of time in complex environments. To this end, I am interested in the application of statistical techniques to develop algorithms that allow such systems to reason over long horizons, improve performance from experience and adapt to changing data distributions and robot capabilities. I am also interested in ensuring safe operation by incorporating the  policy or model uncertainty into planning.   
-</p>     
-<br>
+Broadly, I am interested in machine learning and motion planning for autonomous robots. I am particularly excited about creating robots that can operate consistently for long amounts of time in complex environments. To this end, I am interested in the application of statistical techniques to develop algorithms that allow such systems to reason over long horizons, improve performance from experience and adapt to changing data distributions and robot capabilities. I am also interested in ensuring safe operation by incorporating the  policy or model uncertainty into planning.</p>     
 
 This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

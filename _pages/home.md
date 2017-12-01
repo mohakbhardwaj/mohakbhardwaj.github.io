@@ -1,12 +1,18 @@
 ---
 permalink: /
-title: "Homepage"
+title: "Hello!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
 ---
+I am Mohak Bhardwaj, currently a Robotics Engineer at Near Earth Autonomy, Inc. Previously, I worked as an Extern at [The Air Lab](https://www.ri.cmu.edu/robotics-area/air-lab/) at [The Robotics Institute](https://www.ri.cmu.edu/), Carnegie Mellon University where I worked with [Dr. Sebastian Scherer](https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/) on the application of reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on motion plannig for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
+<br>
 
-This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/)
+Research Interests
+======
+My research interests lie in the application of statistical machine learning techniques 
+
+This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns most closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>
 

@@ -6,14 +6,14 @@ author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
-I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearearth.aero/">Near Earth Autonomy,Inc</a> working on  motion planning for real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer</a> on the application of reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on motion plannig for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
+I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearearth.aero/">Near Earth Autonomy,Inc</a> working on  motion planning for real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
 </p>
 <br>
 
 Research Interests
 ======
 <p align="justify">
-My research interests lie in the application of statistical machine learning techniques to motion planning for autonomous mobile robots. I am interested in creating general purpose planning algorithms that can adapt to the environment and the robot capabilities. My previous work has been on applying reinforcement learning(RL) and imitation learning to create such adaptive planning modules. I am also interested in exploring questions on safe training of RL agents and novel combinations model-free and model-based reinforcement learning methods.
+My research interests lie in the application of statistical machine learning techniques to enable long-term decision making in autonomous robots. My current research deals with creating motion planning algorithms that can adapt to the environment and the robot capabilities using novel combinations of model-free reinforcement learning(RL) and imitation learning with model-based planning. I am interested in further exploring such methods. I am also interested in questions on safe training of RL agents by leveraging policy and/or model uncertainty for better exploration and robustness. Another area of research that I wish to probe is to prevent reward hacking in RL by using extra rewards or policies as heuristics that guide the learning/planning without altering final learnt behavior. 
 </p>     
 <br>
 

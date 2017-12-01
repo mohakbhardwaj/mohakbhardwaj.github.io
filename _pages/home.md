@@ -26,7 +26,7 @@ S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and 
   <br>
 
 <img src="images/mstile-70x70.png" alt="" width="100" height="100" align="left">
-P. Mithun, V.V. Anurag, <b>M. Bhardwaj</b>, S.V. Shah, "<a href="">Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot"> [Proceedings](https://dl.acm.org/citation.cfm?id=2783480)
+P. Mithun, V.V. Anurag, <b>M. Bhardwaj</b>, S.V. Shah, "<a href="">Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot" [Proceedings](https://dl.acm.org/citation.cfm?id=2783480)
   <br>
   <br>
   <br>

@@ -10,7 +10,7 @@ redirect_from:
 Publications
 ======
 
-{% include_relative ./publications.md %}
+{% include_relative publications.md %}
 
 
 Getting started

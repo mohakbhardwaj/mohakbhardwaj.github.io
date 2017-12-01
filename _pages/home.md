@@ -13,21 +13,22 @@ I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearea
 Research Interests
 ======
 <p align="justify">
-My research interests lie in the application of statistical machine learning techniques to enable long-term decision making in autonomous robots. My current research deals with creating motion planning algorithms that can adapt to the environment and the robot capabilities using novel combinations of model-free reinforcement learning(RL) and imitation learning with model-based planning. I am interested in further exploring such methods. I am also interested in questions on safe training of RL agents by leveraging policy and/or model uncertainty for better exploration and robustness. Another area of research that I wish to probe is to prevent reward hacking in RL by using extra rewards or policies as heuristics that guide the learning/planning without altering final learnt behavior. 
+Broadly, I am interested in machine learning and motion planning for autonomous robots. 
 </p>     
 <br>
 
-This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns most closely to my research interests.
+This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br>
 
 Journal and Conference Publications
 ======
 
-<img src="images/visual_servoing.png" alt="" width="250" height="250" align="left">
+<img src="images/visual_servoing.png" alt="" width="300" height="300" align="left">
 **[Learning Heuristic Search via Imitation, Conference on Robot  Learning,(CoRL), 2017](http://proceedings.mlr.press/v78/bhardwaj17a.html)**
 
-**M. Bhardwaj**, S. Choudhury and S. Scherer <br> [Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
+<font size = 6><b>M. Bhardwaj**<\b>, S. Choudhury and S. Scherer <\font><br> 
+[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf)[[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
  <br>
  <br>
 

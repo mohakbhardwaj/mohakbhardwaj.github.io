@@ -33,7 +33,7 @@ Journal and Conference Publications
  <br>
  <br>
 
-<img src="images/data_driven_planning.png" alt="" width="200" height="200" align="left"> **[Data-driven Planning via Imitation Learning, International Journal on Robotics Research, 2017 (submitted)(https://arxiv.org/pdf/1711.06391.pdf)** 
+<img src="images/data_driven_planning.png" alt="" width="200" height="200" align="left"> **[Data-driven Planning via Imitation Learning, International Journal on Robotics Research, 2017 (submitted)](https://arxiv.org/pdf/1711.06391.pdf)** 
 
 S. Choudhury, **M. Bhardwaj**, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey
 

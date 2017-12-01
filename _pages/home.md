@@ -27,16 +27,16 @@ Journal and Conference Publications
 <img src="images/visual_servoing.png" alt="" width="300" height="300" align="left">
 **[Learning Heuristic Search via Imitation, Conference on Robot  Learning,(CoRL), 2017](http://proceedings.mlr.press/v78/bhardwaj17a.html)**
 
-<font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer </font><br> 
-[[Proceedings]](http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf) [[Presentation]](../files/corl_ppt.pdf) [[Website]](https://goo.gl/YXkQAC)
+<font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer <br> 
+<a href="http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf">[Proceedings]</a> <a href="../files/corl_ppt.pdf">[Presentation]</a> <a href="https://goo.gl/YXkQAC">[Website]</font>
  <br>
  <br>
 
 <img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left">
 **[Data-driven Planning via Imitation Learning, International Journal on Robotics Research, 2017 (submitted)](https://arxiv.org/pdf/1711.06391.pdf)**
 
-<font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey</font><br>
-[[Pre-print]](https://arxiv.org/abs/1711.06391)
+<font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey<br>
+<a href="https://arxiv.org/abs/1711.06391">[Pre-print]</a></font>
   <br>
   <br>
 

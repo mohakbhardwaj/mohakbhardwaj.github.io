@@ -24,7 +24,7 @@ This is a video of the invited long talk I gave at Conference on Robot Learning(
 Journal and Conference Publications
 ======
 
-<img src="images/gap_world_sail.gif" alt="" width="300" height="300" align="left" hspace="20">
+<img src="images/gap_world_sail.gif" alt="" width="250" height="300" align="left" hspace="20">
 **[Learning Heuristic Search via Imitation](http://proceedings.mlr.press/v78/bhardwaj17a.html)**<br>
 Conference on Robot  Learning (CoRL),2017<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer <br> 

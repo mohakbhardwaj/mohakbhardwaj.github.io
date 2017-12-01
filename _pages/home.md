@@ -46,7 +46,11 @@ Advances in Robotics (AIR), 2015 <br>
 
 <br>
 
-Projects
+Current Research
+======
+
+
+Selected Projects
 ======
 
 

@@ -13,10 +13,8 @@ Publications
 {% endif %}
 
 {% include base_path %}
+{% include site.pages.publications.md}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 Getting started
 ======

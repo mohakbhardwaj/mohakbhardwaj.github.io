@@ -48,7 +48,11 @@ Advances in Robotics (AIR), 2015 <br>
 
 Current Research
 ======
-
+<img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20">
+[Autonomous Emergency Landing for UAVs]()<br>
+International Journal on Robotics Research, 2017 (submitted)<br>
+<font size="3">Work done at CMU in collaboration with NASA Langley and Near Earth Autonomy, Inc.</a></font>
+<br>
 
 Selected Projects
 ======

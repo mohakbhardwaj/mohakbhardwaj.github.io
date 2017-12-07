@@ -13,7 +13,7 @@ You can download view CV [here](../files/CV - Mohak Bhardwaj.pdf)
 Research Interests
 ======
 <p align="justify">
-Broadly, I am interested in machine learning and motion planning for autonomous robots. I am particularly excited about creating robots that can operate consistently for long amounts of time in complex environments by observing their performance and learning to improve. To this end, I am interested in the application of statistical techniques to develop algorithms that allow robots to reason over long horizons, adapt to changing data distributions and reason about uncertainty for ensuring safety.</p>     
+Broadly, my interests lie in machine learning and motion planning for autonomous robots. I am particularly excited about creating robots that can operate consistently for long amounts of time across a wide variety of environments and tasks. To this end, I am interested in the application of statistical techniques to develop algorithms that allow robots to reason over long horizons, adapt to changing data distributions and reason about uncertainty for ensuring safety.</p>     
 
 This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

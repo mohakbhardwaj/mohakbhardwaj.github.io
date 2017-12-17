@@ -1,0 +1,245 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,sans]{moderncv}  
+\usepackage{wrapfig}
+% \usepackage{mathpazo}
+% \renewcommand{\sfdefault}{\rmdefault}
+% possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{casual}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\usepackage[scale=0.85, top=0.8in]{geometry}
+
+\moderncvcolor{blue}% color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\makeatletter
+\renewcommand*{\makecvtitle}{%
+  % recompute lengths (in case we are switching from letter to resume, or vice versa)
+  \recomputecvlengths%
+  \makecvfooter
+  % optional detailed information box
+  \newbox{\makecvtitledetailsbox}%
+  \savebox{\makecvtitledetailsbox}{%
+    \addressfont\color{color2}%
+    % \begin{wraptable}{1}{0.5cm}
+    \begin{tabular}[t]{@{}l@{}}%
+      \ifthenelse{\isundefined{\@addressstreet}}{}{\makenewline\addresssymbol\@addressstreet %
+      \ifthenelse{\equal{\@addresscity}{}}{}{\makenewline\@addresscity}} % if \addresstreet is defined, \addresscity will always be defined but could be empty
+      \ifthenelse{\isundefined{\@mobile}}{}{\makenewline\mobilesymbol\@mobile} %
+      \ifthenelse{\isundefined{\@email}}{}{\makenewline\emailsymbol\emaillink{\@email}}%
+      \ifthenelse{\isundefined{\@homepage}}{}{\makenewline{\homepagesymbol\httplink{\@homepage}}}%
+    \end{tabular}
+    % \end{wraptable}
+  }%
+  % optional photo (pre-rendering)
+%   \newbox{\makecvtitlepicturebox}%
+%   \savebox{\makecvtitlepicturebox}
+  {%
+    \ifthenelse{\isundefined{\@photo}}%
+    {}%
+    {%
+     % \hspace*{\separatorcolumnwidth}%
+      \color{color1}%
+      \setlength{\fboxrule}{\@photoframewidth}%
+      \ifdim\@photoframewidth=0pt%
+        \setlength{\fboxsep}{0pt}\fi%
+      \framebox{\includegraphics[width=\@photowidth]{\@photo}}}}%
+  % name and title
+  \newlength{\makecvtitledetailswidth}\settowidth{\makecvtitledetailswidth}{\usebox{\makecvtitledetailsbox}}%
+%   \newlength{\makecvtitlepicturewidth}\settowidth{\makecvtitlepicturewidth}{\usebox{\makecvtitlepicturebox}}%
+  \ifthenelse{\lengthtest{\makecvtitlenamewidth=0pt}}% check for dummy value (equivalent to \ifdim\makecvtitlenamewidth=0pt)
+    {\setlength{\makecvtitlenamewidth}{\textwidth-\makecvtitlepicturewidth
+}}%
+    {}%
+\begin{minipage}[b]{\makecvtitlenamewidth}
+    \begin{flushright}\namestyle{\@firstname\ \@familyname}\par\medskip\end{flushright}%
+    \ifthenelse{\equal{\@title}{}}{}{{\centering\titlestyle{\@title}\par}\medskip}%
+  %\hfill%
+  % detailed information
+%  \llap{
+%
+\end{minipage}\hfill%
+% \raisebox{1em}{\usebox{\makecvtitlepicturebox}}\vspace{2.5em}%
+
+\usebox{\makecvtitledetailsbox}%
+%}% \llap is used to suppress the width of the box, allowing overlap if the value of makecvtitlenamewidth is forced
+  % optional photo (rendering)
+  % optional quote
+  \ifthenelse{\isundefined{\@quote}}%
+    {}%
+    {{\centering\begin{minipage}{\quotewidth}\centering\quotestyle{\@quote}\end{minipage}\\[2.5em]}}%
+  \par}% to avoid weird spacing bug at the first section if no blank line is left after \makecvtitle
+\makeatother
+
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+\usepackage{fontawesome}
+% adjust the page margins
+% \usepackage[scale=0.2]{geometry}
+% \recomputelengths
+\setlength{\hintscolumnwidth}{3.3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+% \usepackage[ngerman]{babel}
+% \usepackage{etoolbox}% http://ctan.org/pkg/etoolbox
+% % \patchcmd{<cmd>}{<search>}{<replace>}{<success>}{<failure>}
+ 
+\usepackage{hyperref}
+%\hypersetup{
+%   colorlinks=true,
+%    linkcolor=red,
+%    filecolor=magenta,
+%    urlcolor=blue
+%}
+ 
+% \urlstyle{same}
+ 
+% \setlength{\headheight}{36pt}
+
+% personal data
+\name{Mohak}{Bhardwaj}
+\title{}                               % optional, remove / comment the line if not wanted
+% \address{street and number}{postcode city}{country}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+% \patchcmd{\makeletterfooter}{\fancyfoot}{\fancyhead}{}{}
+\phone[mobile]{+1~(717)~788~9103}                   % optional, remove / comment the line if not wanted
+% \phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+% \phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{mohak.bhardwaj@gmail.com}                % optional, remove / comment the line if not wanted
+\homepage{mohakbhardwaj.github.io}                         % optional, 
+\extrainfo{ \faLinkedin \hspace{1mm} \httplink{linkedin.com/in/mohakbhardwaj} \quad \quad
+ \faGithub \hspace{1mm} \httplink{github.com/mohakbhardwaj}}                % 
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+
+
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+% \makecvhead
+\vspace*{-3mm}
+\section{Education}
+\cventry{2015--2016}{Carnegie Mellon University, School of Computer Science}{Pittsburgh}{\newline{}Master of Science In Robotic Systems Development}{\textit{QPA:3.83/4.0}}{\footnotesize Relevant Coursework: Planning, Execution and Learning; Mobile Robots; Computer Vision; Robot Autonomy; Dynamic Optimization; Statistical Techniques in Robotics; Manipulation Algorithms}  % arguments 3 to 6 can be left empty
+\cventry{2011--2015}{Indian Institute of Technology (BHU), Varanasi}{India}{\newline{}B.Tech in Mechanical Engineering}{}{}
+
+\section{Journal and Conference Publications}
+\cvitem{}{Choudhury S., \textbf{Bhardwaj M.}, Arora S., Kapoor A., Ranade G., Scherer S., Dey D., "Data-driven Planning via Imitation Learning", International Journal of Robotics Research(IJRR), 2017(Submitted)  \textbf{Pre-print}: \httplink{goo.gl/6ABoZf}}
+\cvitem{}{\textbf{Bhardwaj}, M., Choudhury S., Scherer S., "Learning Heuristic Search via Imitation", Conference on Robotic Learning 2017 \textbf{Proceedings}: \httplink{goo.gl/cPo2yQ}}
+\cvitem{}{Mithun, P., Anurag, V. V., \textbf{Bhardwaj, M.}, Shah, S. V., "Real-Time Dynamic Singularity Avoidance while Visual Servoing of a Dual-Arm Space Robot", Advances in Robotics 2015 \textbf{Proceedings}: \httplink{goo.gl/j1uVLg}}
+
+\section{Work Experience}
+\cventry{Dec 2017-}{Near Earth Autonomy}{Robotics Engineer}{}{}{
+Adaptive motion planning under uncertainty for real-world UAVs..}
+\cventry{Mar 2017-Dec 2017}{Air Lab, CMU}{Extern}{}{\footnotesize Advisor: Dr. Sebastian Scherer}{
+% \begin{itemize}
+% \item[-]\textbf{Learning Heuristic Search via Imitation} \newline{} Formulated learning heuristics for search based motion planning as sequential decision making and developed a novel algorithmic framework for learning them using imitation learning. Trained neural network policies to explicitly minimize search effort by selecting next vertex to expand.  Machine learning pipeline was developed using Google TensorFlow.
+% \item[-]\textbf{NASA UAS Contingency Project Phase II: Autonomous Contingency Response Module}\newline{Developing a robust motion planning architecture for UAVs that leverages uncertainty aware planning and machine learning for responding to a suite of UAV emergencies (vehicle damage, loss of power etc.) with dynamics uncertainty and real-time constraints.} 
+% \end{itemize}
+Research on reinforcement and imitation learning applied to search based planning; Planning under uncertainty.
+}
+
+\cventry{Feb 2016-Dec 2016}{Air Lab, CMU}{Research Associate}{}{\footnotesize Advisor: Dr. Sebastian Scherer}{Research on motion planning for UAV emergency landing. 
+% \begin{itemize}
+% \item[-]\textbf{NASA UAS Contingency Project Phase I: Risk-aware motion planning for autonomous contingency landing of unmanned aerial vehicles.}\newline{}Developed a sampling based motion planner that explicitly reasons about landing risk in addition to dynamics and time constraints for responding to emergency situations such as low fuel or engine failure in real-time. 
+% \end{itemize}
+}
+\cventry{May 2016-Aug 2016}{Qualcomm R\&D}{Intern, Autonomous Driving}{}{\footnotesize Manager:Sebastian Mounier}{S.L.A.M and multi-sensor calibration for autonomous cars.
+% \begin{itemize}
+% \item[-]Developed software and algorithms for multi-camera extrinsic calibration and lidar to camera registration using factor graph SLAM and nonlinear optimization.
+% \end{itemize}
+}
+\cventry{May 2014-Aug 2014}{Robotics Research Institute, IIIT-Hyderabad}{Intern}{}{\footnotesize Advisor: Dr. Suril V Shah}{Research on optimal control algorithms for space manipulators. 
+% \begin{itemize}
+% \item[-]\textbf{Real-time Visual Servoing and Singularity Avoidance for Dual-Arm Space Robot} \newline{}Developed IK based optimal control algorithms for visual servoing of space manipulators with real-time singularity avoidance in a coupled arm-base dynamic system. 
+%\footnotesize [\textbf{Publication}: Real-Time Dynamic Singularity Avoidance while Visual Servoing of a Dual-Arm Space Robot, Advances in Robotics Goa, 2015 \textbf{Link}: \httplink{goo.gl/j1uVLg}]
+% \end{itemize}
+}
+
+\section{Research Work}
+\cventry{Dec 2016-July 2017}{Learning Heuristic Search via Imitation}{Carnegie Mellon University}{}{}{Proposed a formulation of graph search as sequential decision making and developed a novel algorithmic framework for learning heuristic policies using imitation learning. Trained neural network policies to explicitly minimize search effort by selecting next vertex to expand.}
+\cventry{Mar 2017-}{Risk-Aware Stochastic Motion Planning for UAV Contingency Response}{Carnegie Mellon University}{}{}{Developing a robust motion planning architecture for UAVs that optimizes for closed loop performance under dynamics uncertainty to respond to a suite of emergency conditions (vehicle damage, loss of power etc.) }
+\cventry{May 2014-Jul 2014}{Visual Servoing with Singularity Avoidance for Dual-Arm Space Robot}{IIIT-Hyderabad}{}{}{Developed IK based optimal control algorithms for visual servoing of space manipulators with real-time singularity avoidance in a coupled arm-base dynamic system.}
+
+\section{Project Work}
+\cventry{Aug 2015-May 2016}{Motion Planning and Online Learning for Autonomous Driving }{\footnotesize Master's Capstone Project}{}{}{Developed real-time state lattice based motion planner for autonomous cars with differential constraints using  ROS-C++. \newline{}
+Devised an online reinforcement learning method for dynamically allocating parking spots to autonomous cars using a multi-armed bandit formulation.}
+\cventry{May 2016-Aug 2016}{Multi-sensor calibration using S.L.A.M for Autonomous Cars}{\footnotesize Qualcomm R\&D}{}{}{Created a full-vehicle calibration room and developed software for multi-camera intrinsic calibration using factor graph SLAM and lidar to camera registration.}
+\cventry{Sep 2016-Jan 2017}{End-to-End Reinforcement Learning with Deep Deterministic Policy Gradients}{}{}{}{Applied off-policy learning for manipulation to grasp and pick up objects in simulation using OpenRAVE.}
+\cventry{July 2016-Sep 2017}{Deep Reinforcement Learning using Actor-Critic Policy Gradient}{\footnotesize Code:\httplink{goo.gl/lzGQjW}}{}{}{Experimented with deep RL algorithms for continuous control using an actor-critic setting with monte-carlo policy evaluation and Generalized Advantage Estimation.\footnotesize \textbf{Webpage}: \httplink{goo.gl/CcdPo3}}
+% \cventry{Jan 2016-May 2016}{PACMAN Playing Agent: Dynamic Programming, Reinforcement Learning, State Estimation}{}{}{}{Developed algorithms for Value Iteration, Real Time Dynamic Programming, Q-learning and Particle Filter based State Estimation on the Berkley PACMAN simulator.}
+\cventry{Aug 2014-May 2015}{Stable Walking of a Quadrupedal Robot}{\footnotesize B.Tech Final Year Project}{}{}{Led a four member team to design, simulate and implement statically stable crawl gait on a quadrupedal robot with 3DOF legs.}
+
+\section{Open-Source Code}
+\cvitem{}{\emph{Search as Imitation Learning:} Tensorflow pipeline for learning heuristic policies for search based motion planning. \footnotesize Link: \httplink{goo.gl/YXkQAC}}  
+\cvitem{}{\emph{Python Motion Planning:} Easy-to-use motion planning library geared towards planning and ML research \footnotesize Link: \httplink{goo.gl/88shhJ}}
+\cvitem{} {\emph{Deep RL with OpenAI Gym:} Modular pipeline for developing and testing RL agents with OpenAI gym environments. \footnotesize Link: \httplink{goo.gl/8tkFC4}}
+\cvitem{}{\emph{Motion Planning Datasets:} Benchmarks for comparing planning algorithms. \footnotesize Link:\httplink{goo.gl/H6FqfV}}
+
+\section{Achievements and Honors}
+\cvitem{2011}{Secured a rank in 0.6 \% out of 480,000 students from all over India in the IIT Joint Entrance Examination}
+\cvitem{2015}{Received Institute Color Award from IIT,Varanasi for outstanding extra-curricular achievements.}
+
+\section{Technical Skills} 
+\cvitem{Languages}{C++,Python}%{}{}
+\cvitem{Software}{ROS,TensorFlow, OMPL}%{}{}
+\cvitem{Hardware}{Nvidia Jetson,Beaglebone,Raspberry Pi}%{}{}
+
+% \section{References}
+% \begin{cvcolumns}
+%   \cvcolumn{Category 1}{\begin{itemize}\item Person 1\item Person 2\item Person 3\end{itemize}}
+%   \cvcolumn{Category 2}{Amongst others:\begin{itemize}\item Person 1, and\item Person 2\end{itemize}(more upon request)}
+%   \cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+% \end{cvcolumns}
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+% \nocite{*}
+% \bibliographystyle{plain}
+% \bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+% \clearpage
+% %-----       letter       ---------------------------------------------------------
+% % recipient data
+% \recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
+% \date{January 01, 1984}
+% \opening{Dear Sir or Madam,}
+% \closing{Yours faithfully,}
+% \enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+% \makelettertitle
+
+% Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis ullamcorper neque sit amet lectus facilisis sed luctus nisl iaculis. Vivamus at neque arcu, sed tempor quam. Curabitur pharetra tincidunt tincidunt. Morbi volutpat feugiat mauris, quis tempor neque vehicula volutpat. Duis tristique justo vel massa fermentum accumsan. Mauris ante elit, feugiat vestibulum tempor eget, eleifend ac ipsum. Donec scelerisque lobortis ipsum eu vestibulum. Pellentesque vel massa at felis accumsan rhoncus.
+
+% Suspendisse commodo, massa eu congue tincidunt, elit mauris pellentesque orci, cursus tempor odio nisl euismod augue. Aliquam adipiscing nibh ut odio sodales et pulvinar tortor laoreet. Mauris a accumsan ligula. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse vulputate sem vehicula ipsum varius nec tempus dui dapibus. Phasellus et est urna, ut auctor erat. Sed tincidunt odio id odio aliquam mattis. Donec sapien nulla, feugiat eget adipiscing sit amet, lacinia ut dolor. Phasellus tincidunt, leo a fringilla consectetur, felis diam aliquam urna, vitae aliquet lectus orci nec velit. Vivamus dapibus varius blandit.
+
+% Duis sit amet magna ante, at sodales diam. Aenean consectetur porta risus et sagittis. Ut interdum, enim varius pellentesque tincidunt, magna libero sodales tortor, ut fermentum nunc metus a ante. Vivamus odio leo, tincidunt eu luctus ut, sollicitudin sit amet metus. Nunc sed orci lectus. Ut sodales magna sed velit volutpat sit amet pulvinar diam venenatis.
+
+% Albert Einstein discovered that $e=mc^2$ in 1905.
+
+% \[ e=\lim_{n \to \infty} \left(1+\frac{1}{n}\right)^n \]
+
+% \makeletterclosing
+
+% %\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
+
+
+% %% end of file `template.tex'.

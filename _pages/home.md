@@ -57,9 +57,9 @@ Current Research
 
 Selected Projects
 ======
-<img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20">
-**[Auto-Park for Collaborative Autonomous Cars (Master's Capstone Project)](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
-# <font size="3">Work done at CMU in collaboration with NASA Langley and Near Earth Autonomy, Inc.</font>
+<img src="images/autopark_sim.png" alt="" width="250" height="250" align="left" hspace="20">
+**[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
+# <font size="3">Capstone project for Master's of Science in Robotic Systems Development</font>
 <br>
 
 

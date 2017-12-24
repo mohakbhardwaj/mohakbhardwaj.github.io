@@ -66,7 +66,7 @@ Selected Projects
 <img src="images/mstile-150x150.png" alt="" width="250" height="250" align="left" hspace="20">
 **[Actor-Critic Polcy Gradients for Deep Reinforcement Learning](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
 <font size="3"><br>
-<a href="goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="goo.gl/lzGQjW">[Code]</a></font>
+<a href="https://goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="https://goo.gl/lzGQjW">[Code]</a></font>
 <br>
 <br>
 

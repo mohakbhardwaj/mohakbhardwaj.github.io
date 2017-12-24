@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Hello!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
-I am Mohak Bhardwaj, currently a Robotics Engineer at <a href="http://www.nearearth.aero/">Near Earth Autonomy,Inc</a> working on  motion planning for real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
+I am currently a Robotics Engineer at <a href="http://www.nearearth.aero/">Near Earth Autonomy,Inc</a> where I work on motion planning for real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi.
 </p>
 You can download view CV [here](../files/CV/main.pdf)
 
@@ -59,7 +59,13 @@ Selected Projects
 ======
 <img src="images/autopark_sim.png" alt="" width="250" height="250" align="left" hspace="20">
 **[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
-# <font size="3">Capstone project for Master's of Science in Robotic Systems Development</font>
+<font size="3">Capstone project for Master's of Science in Robotic Systems Development</font>
+<br>
+
+<img src="images/mstile-150x150.png" alt="" width="250" height="250" align="left" hspace="20">
+**[Actor-Critic Polcy Gradients for Deep Reinforcement Learning](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
+<font size="3"><br>
+<a href="goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="goo.gl/lzGQjW">[Code]</a></font>
 <br>
 
 

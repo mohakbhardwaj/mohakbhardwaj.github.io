@@ -29,7 +29,7 @@ International Journal on Robotics Research, 2017 (submitted)<br>
 <br>
 
 <img src="images/gap_world_sail.gif" alt="" width="250" height="250" align="left" hspace="20">
-**[Learning Heuristic Search via Imitation](http://proceedings.mlr.press/v78/bhardwaj17a.html)**<br>
+**[Learning Heuristic Search via Imitation](https://goo.gl/YXkQAC)**<br>
 Conference on Robot  Learning (CoRL),2017<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer <br> 
 <a href="http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf">[Proceedings]</a> <a href="../files/corl_ppt.pdf">[Presentation]</a> <a href="https://goo.gl/YXkQAC">[Website]</a></font>
@@ -49,10 +49,18 @@ Advances in Robotics (AIR), 2015 <br>
 Current Research
 ======
 <img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20">
-Autonomous Emergency Landing for UAVs<br>
+**Autonomous Emergency Landing for UAVs**<br>
 <font size="3">Work done at CMU in collaboration with NASA Langley and Near Earth Autonomy, Inc.</font>
 <br>
 
+<br>
+
+Selected Projects
+======
+<img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20">
+**[Auto-Park for Collaborative Autonomous Cars (Master's Capstone Project)](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
+# <font size="3">Work done at CMU in collaboration with NASA Langley and Near Earth Autonomy, Inc.</font>
+<br>
 
 
 

@@ -70,6 +70,12 @@ Selected Projects
 <br>
 <br>
 
+<img src="images/mstile-150x150.png" alt="" width="250" height="250" align="left" hspace="20">
+**[Stable Walking of a Quadruper Robot]()**<br>
+<font size="3">Final year project at Indian Institute of Technology (BHU), Varanasi<br>
+<br>
+<br>
+
 
 
 

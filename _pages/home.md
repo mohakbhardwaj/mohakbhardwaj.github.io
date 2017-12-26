@@ -13,7 +13,7 @@ You can download view CV [here](../files/CV/main.pdf)
 Research Interests
 ======
 <p align="justify">
-Broadly, my interests lie in machine learning and motion planning for autonomous robots. I am particularly excited about designing learning systems that enable robots to operate reliably across a wide variety of environments and without human supervision. Important sub-problems that I have focussed on through my research are: adapting to changing data distributions and robustness to uncertainty. </p>     
+Broadly, my interests lie in machine learning and motion planning for autonomous robots. I am particularly excited about designing learning systems that enable robots to operate reliably across a wide variety of environments and without human supervision. Important sub-problems that have been a focus of my research are: motion planning that adapts to changing data distributions and robustness to uncertainty. </p>     
 
 This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

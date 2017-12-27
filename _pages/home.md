@@ -72,7 +72,7 @@ Selected Projects
 
 <img src="images/quadruped.png" alt="" width="250" height="250" align="left" hspace="20">
 **[Stable Walking of a Quadruped Robot]()**<br>
-<font size="3">Final year project at Indian Institute of Technology (BHU), Varanasi<br>
+<font size="3">Final year project at Indian Institute of Technology (BHU), Varanasi.
 <a href="https://youtu.be/EP8euqNGV60">[Video]</a></font>
 <br>
 <br>

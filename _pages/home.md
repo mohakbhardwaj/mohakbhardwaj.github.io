@@ -69,6 +69,9 @@ Selected Projects
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <img src="images/quadruped.png" alt="" width="250" height="250" align="left" hspace="20">
 **[Stable Walking of a Quadruped Robot]()**<br>

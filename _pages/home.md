@@ -64,16 +64,17 @@ Selected Projects
 <br>
 
 <img src="images/mstile-150x150.png" alt="" width="250" height="250" align="left" hspace="20">
-**[Actor-Critic Policy Gradients for Deep Reinforcement Learning]()**<br>
+**[Deep Reinforcement Learning using Actor-Critic Policy Gradients]()**<br>
 <font size="3"><br>
 <a href="https://goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="https://goo.gl/lzGQjW">[Code]</a></font>
+<br>
 <br>
 <br>
 
 <img src="images/quadruped.png" alt="" width="250" height="250" align="left" hspace="20">
 **[Stable Walking of a Quadruped Robot]()**<br>
 <font size="3">Final year project at Indian Institute of Technology (BHU), Varanasi<br>
-<a href="https://youtu.be/EP8euqNGV60">[Video]</a>
+<a href="https://youtu.be/EP8euqNGV60">[Video]</a></font>
 <br>
 <br>
 

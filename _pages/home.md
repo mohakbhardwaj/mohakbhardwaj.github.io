@@ -22,7 +22,7 @@ This is a video of the invited long talk I gave at Conference on Robot Learning(
 Journal and Conference Publications
 ======
 
-<img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
 International Journal on Robotics Research, 2017 (submitted)<br>
 <font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <a href="https://arxiv.org/abs/1711.06391">[Pre-print]</a></font>
@@ -70,7 +70,7 @@ Selected Projects
 <br>
 <br>
 
-<img src="images/quadruped.png" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/quadruped.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Stable Walking of a Quadruped Robot]()**<br>
 <font size="3">Final year project at Indian Institute of Technology (BHU), Varanasi.
 <a href="https://youtu.be/EP8euqNGV60">[Video]</a></font>

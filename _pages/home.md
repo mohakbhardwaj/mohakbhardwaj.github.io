@@ -35,6 +35,7 @@ Conference on Robot  Learning (CoRL),2017<br>
 <a href="http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf">[Proceedings]</a> <a href="../files/corl_ppt.pdf">[Presentation]</a> <a href="https://goo.gl/YXkQAC">[Website]</a></font>
  <br>
  <br>
+ <br>
 
 <img src="images/visual_servoing.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot](http://delivery.acm.org/10.1145/2790000/2783480/a31-mithun.pdf?ip=128.2.176.221&id=2783480&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=835725440&CFTOKEN=93115672&__acm__=1512100245_b4011bd3addc9630e032a7b5751e9162)**<br>
@@ -61,6 +62,7 @@ Selected Projects
 **[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
 <font size="3">Capstone project for Master's of Science in Robotic Systems Development.
 <a href="https://www.youtube.com/watch?v=40VQhGxNY1g">[Video]</a></font>
+<br>
 <br>
 <br>
 

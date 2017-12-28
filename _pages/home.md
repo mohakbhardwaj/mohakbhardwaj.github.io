@@ -44,7 +44,7 @@ Advances in Robotics (AIR), 2015 <br>
 <a href="https://dl.acm.org/citation.cfm?id=2783480">[Proceedings]</a></font> 
 <br>
 
-<br>
+
 Current Research
 ======
 <img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">

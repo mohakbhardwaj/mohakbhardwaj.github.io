@@ -59,7 +59,8 @@ Selected Projects
 ======
 <img src="images/autopark_sim.png" alt="" width="250" height="250" align="left" hspace="20">
 **[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
-<font size="3">Capstone project for Master's of Science in Robotic Systems Development</font>
+<font size="3">Capstone project for Master's of Science in Robotic Systems Development.
+<a href="https://mrsdprojects.ri.cmu.edu/2015teami/media/">[Video]</a></font>
 <br>
 <br>
 

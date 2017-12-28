@@ -28,7 +28,7 @@ International Journal on Robotics Research, 2017 (submitted)<br>
 <font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <a href="https://arxiv.org/abs/1711.06391">[Pre-print]</a></font>
 <br>
 
-<img src="images/gap_world_sail.gif" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/gap_world_sail.gif" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Learning Heuristic Search via Imitation](https://goo.gl/YXkQAC)**<br>
 Conference on Robot  Learning (CoRL),2017<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer <br> 
@@ -36,7 +36,7 @@ Conference on Robot  Learning (CoRL),2017<br>
  <br>
  <br>
 
-<img src="images/visual_servoing.png" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/visual_servoing.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot](http://delivery.acm.org/10.1145/2790000/2783480/a31-mithun.pdf?ip=128.2.176.221&id=2783480&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=835725440&CFTOKEN=93115672&__acm__=1512100245_b4011bd3addc9630e032a7b5751e9162)**<br>
 Advances in Robotics (AIR), 2015 <br>
 <font size="3">P. Mithun, V.V. Anurag, <b>M. Bhardwaj</b>, S.V. Shah<br>
@@ -48,23 +48,23 @@ Advances in Robotics (AIR), 2015 <br>
 
 Current Research
 ======
-<img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **Autonomous Emergency Landing for UAVs**<br>
-<font size="3">Work done at CMU in collaboration with NASA Langley and Near Earth Autonomy, Inc.</font>
+<font size="3">Work done at CMU and Near Earth Autonomy, Inc. in collaboration with NASA Langley.</font>
 <br>
 
 <br>
 
 Selected Projects
 ======
-<img src="images/autopark_sim.png" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/autopark_sim.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
 <font size="3">Capstone project for Master's of Science in Robotic Systems Development.
 <a href="https://www.youtube.com/watch?v=40VQhGxNY1g">[Video]</a></font>
 <br>
 <br>
 
-<img src="images/actor-critic-snipped.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 6px outset;">
+<img src="images/actor-critic-snipped.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Deep Reinforcement Learning using Actor-Critic Policy Gradients]()**<br>
 <font size="3"><a href="https://goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="https://goo.gl/lzGQjW">[Code]</a></font><br>
 <br>

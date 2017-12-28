@@ -43,7 +43,6 @@ Advances in Robotics (AIR), 2015 <br>
 <font size="3">P. Mithun, V.V. Anurag, <b>M. Bhardwaj</b>, S.V. Shah<br>
 <a href="https://dl.acm.org/citation.cfm?id=2783480">[Proceedings]</a></font> 
 <br>
-<br>
 
 <br>
 

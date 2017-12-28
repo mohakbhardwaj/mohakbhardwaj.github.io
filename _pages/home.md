@@ -45,7 +45,6 @@ Advances in Robotics (AIR), 2015 <br>
 <br>
 
 <br>
-
 Current Research
 ======
 <img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">

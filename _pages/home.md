@@ -64,7 +64,7 @@ Selected Projects
 <br>
 <br>
 
-<img src="images/actor-critic .001.jpeg" alt="" width="250" height="250" align="left" hspace="20">
+<img src="images/actor-critic .001.jpeg" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 6px outset;">
 **[Deep Reinforcement Learning using Actor-Critic Policy Gradients]()**<br>
 <font size="3"><a href="https://goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="https://goo.gl/lzGQjW">[Code]</a></font><br>
 <br>

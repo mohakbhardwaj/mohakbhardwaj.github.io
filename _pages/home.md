@@ -22,6 +22,7 @@ This is a video of the invited long talk I gave at Conference on Robot Learning(
 Journal and Conference Publications
 ======
 
+<br>
 <img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
 International Journal on Robotics Research, 2017 (submitted)<br>
@@ -47,6 +48,8 @@ Advances in Robotics (AIR), 2015 <br>
 
 Current Research
 ======
+
+<br>
 <img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **Autonomous Emergency Landing for UAVs**<br>
 <font size="3">Work done at CMU and Near Earth Autonomy, Inc. in collaboration with NASA Langley.</font>
@@ -56,6 +59,8 @@ Current Research
 
 Selected Projects
 ======
+
+<br>
 <img src="images/autopark_sim.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
 <font size="3">Capstone project for Master's of Science in Robotic Systems Development.

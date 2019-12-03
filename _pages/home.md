@@ -6,20 +6,21 @@ author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
-I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering an the University of Washington, working with <a href="https://homes.cs.washington.edu/~bboots/"> Byron Boots </a>. 
+I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, advised by <a href="https://homes.cs.washington.edu/~bboots/"> Byron Boots </a>. I am interested in developing theory and algorithms for scalable and efficient robot learning with a specific focus on the intersection of reinforcement learning, model-predictive control and motion planning. 
+
+Before transferring to University of Washington, I spent an year as a Ph.D. student at <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a>, <a href="https://www.cc.gatech.edu/">College of Computing</a> at <a href="https://www.gatech.edu/">Georgia Tech</a>, prior to which I was a Robotics Engineer at  <a href="http://www.nearearth.aero/">Near Earth Autonomy, Inc.</a> working on motion planning for real-world UAVs. I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my <a href="https://mrsd.ri.cmu.edu/">M.S in Robotic Systems Development </a> from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from <a href="https://www.iitbhu.ac.in/">Indian Institute of Technology, Varanasi.</a>
+
+
 
 <!-- Robotics Engineer at <a href="http://www.nearearth.aero/">Near Earth Autonomy, Inc.</a> where I work on motion planning for real-world UAVs. Previously, I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, Carnegie Mellon University, where I worked with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Dr. Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my M.S in Robotic Systems Development from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from Indian Institute of Technology, Varanasi. -->
 </p>
-You can download view CV [here](../files/CV - Mohak Bhardwaj.pdf)
+You can download and view my CV [here](../files/CV - Mohak Bhardwaj.pdf)
 
-<!-- Research Interests
-======
-<p align="justify">
-Broadly, my interests lie in machine learning and motion planning for autonomous robots. I am particularly excited about designing learning systems that enable robots to operate reliably across a wide variety of environments and without human supervision. Important sub-problems that have been a focus of my research are: motion planning that adapts to changing data distributions and robustness to uncertainty. </p>     
 
-This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
+
+<!-- This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
-<br> -->
+<br> --> 
 
 Journal and Conference Publications
 ======

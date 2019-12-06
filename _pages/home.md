@@ -27,9 +27,7 @@ Preprints
 ======
 <br>
 
-**[Differentiable Gaussian Process Motion Planning](hhttps://arxiv.org/abs/1907.09591)**
-<font size = "2"> <b>,M. Bhardwaj</b>, B. Boots and M. Mukadam, 2019 <br> 
-
+[Differentiable Gaussian Process Motion Planning](hhttps://arxiv.org/abs/1907.09591) <font size = "2"> <b>,M. Bhardwaj</b>, B. Boots and M. Mukadam, 2019 <br> 
 
 Journal and Conference Publications
 ======
@@ -37,7 +35,7 @@ Journal and Conference Publications
 <br>
 <img src="images/lazy_sp.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Leveraging Experience in Lazy Search](http://www.roboticsproceedings.org/rss15/p50.pdf)**<br>
-Conference on Robot  Learning (CoRL),2017<br>
+Robotics:Science and Systems, 2019<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury, B. Boots and S. Srinivasa <br> 
 <a href="http://www.roboticsproceedings.org/rss15/p50.pdf">[Proceedings]</a> <a href="../files/rss_2019_slides.pdf">[Presentation]</a> <a href="poster_rss_2019.pdf">[Poster]</a> </font>
  <br>
@@ -48,6 +46,8 @@ Conference on Robot  Learning (CoRL),2017<br>
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
 International Journal on Robotics Research, 2017 (Best Paper Finalist)<br>
 <font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <a href="https://journals.sagepub.com/doi/10.1177/0278364918781001">[Publication]</a></font>
+<br>
+<br>
 <br>
 
 <img src="images/gap_world_sail.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
@@ -67,17 +67,6 @@ Advances in Robotics (AIR), 2015 <br>
 <br>
 
 
-<!-- Current Research -->
-<!-- ====== -->
-
-<!-- <br>
-<img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
-**Autonomous Emergency Landing for UAVs**<br>
-<font size="3">Work done at CMU and Near Earth Autonomy, Inc. in collaboration with NASA Langley.</font>
-<br>
-
-<br> -->
-
 Other Projects
 ======
 
@@ -86,6 +75,7 @@ Other Projects
 **[Auto-Park for Collaborative Autonomous Cars](https://mrsdprojects.ri.cmu.edu/2015teami/)**<br>
 <font size="3">Capstone project for Master's of Science in Robotic Systems Development.
 <a href="https://www.youtube.com/watch?v=40VQhGxNY1g">[Video]</a></font>
+<br>
 <br>
 <br>
 <br>

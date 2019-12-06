@@ -6,30 +6,48 @@ author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
-I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, advised by <a href="https://homes.cs.washington.edu/~bboots/"> Byron Boots </a>. I am interested in developing theory and algorithms for scalable and efficient robot learning with a specific focus on the intersection of reinforcement learning, model-predictive control and motion planning. 
+I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, advised by <a href="https://homes.cs.washington.edu/~bboots/"> Byron Boots</a>. I am interested in developing theory and algorithms for scalable and efficient robot learning with a specific focus on the intersection of reinforcement learning, model-predictive control and motion planning. I spent summer 2019 as an intern at <a href+"https://www.nvidia.com/en-us/research/robotics/">NVIDIA Seattle Robotics Lab</a> with <a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a> and Byron Boots. 
 </p>
 <p align="justify"> 
-Before transferring to University of Washington, I spent an year as a Ph.D. student at <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a>, <a href="https://www.cc.gatech.edu/">College of Computing</a> at <a href="https://www.gatech.edu/">Georgia Tech</a>, prior to which I was a Robotics Engineer at  <a href="http://www.nearearth.aero/">Near Earth Autonomy, Inc.</a> working on motion planning for real-world UAVs. I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my <a href="https://mrsd.ri.cmu.edu/">M.S in Robotic Systems Development </a> from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from <a href="https://www.iitbhu.ac.in/">Indian Institute of Technology, Varanasi.</a>
+Before transferring to University of Washington, I spent a year as a Ph.D. Robotics student at <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a>, <a href="https://www.cc.gatech.edu/">College of Computing</a> at <a href="https://www.gatech.edu/">Georgia Tech</a>, prior to which I was a Robotics Engineer at  <a href="http://www.nearearth.aero/">Near Earth Autonomy, Inc.</a> working on motion planning for real-world UAVs. I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my <a href="https://mrsd.ri.cmu.edu/">M.S in Robotic Systems Development </a> from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from <a href="https://www.iitbhu.ac.in/">Indian Institute of Technology, Varanasi.</a>
 
 </p>
-You can download and view my CV [here](../files/CV - Mohak Bhardwaj.pdf)
+You can view my CV [here](../files/CV - Mohak Bhardwaj.pdf)
 <p align="justify">
 When not doing research, you'll find me doing <a href="https://www.youtube.com/channel/UCyZBfA5Fc6ODMam54J6UT6w">stand-up and improv comedy</a>. I also enjoy live music, theatre and travelling.
 </p>
+
 
 
 <!-- This is a video of the invited long talk I gave at Conference on Robot Learning(CoRL), 2017 on my work on [Learning Heuristic Search via Imitation](https://mohakbhardwaj.github.io/SaIL/) which aligns closely to my research interests.
 <iframe width="854" height="480" src="https://www.youtube.com/embed/OFmWo36N98U" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 <br> --> 
 
+Preprints
+======
+<br>
+
+**[Differentiable Gaussian Process Motion Planning](hhttps://arxiv.org/abs/1907.09591)**
+<font size = "2"> <b>,M. Bhardwaj</b>, B. Boots and M. Mukadam, 2019 <br> 
+
+
 Journal and Conference Publications
 ======
 
 <br>
+<img src="images/lazy_sp.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+**[Leveraging Experience in Lazy Search](http://www.roboticsproceedings.org/rss15/p50.pdf)**<br>
+Conference on Robot  Learning (CoRL),2017<br>
+<font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury, B. Boots and S. Srinivasa <br> 
+<a href="http://www.roboticsproceedings.org/rss15/p50.pdf">[Proceedings]</a> <a href="../files/rss_2019_slides.pdf">[Presentation]</a> <a href="poster_rss_2019.pdf">[Poster]</a> </font>
+ <br>
+ <br>
+ <br>
+
 <img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
 International Journal on Robotics Research, 2017 (Best Paper Finalist)<br>
-<font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <a href="https://arxiv.org/abs/1711.06391">[Pre-print]</a></font>
+<font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <a href="https://journals.sagepub.com/doi/10.1177/0278364918781001">[Publication]</a></font>
 <br>
 
 <img src="images/gap_world_sail.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
@@ -49,18 +67,18 @@ Advances in Robotics (AIR), 2015 <br>
 <br>
 
 
-Current Research
-======
+<!-- Current Research -->
+<!-- ====== -->
 
-<br>
+<!-- <br>
 <img src="images/uasc_phase_1.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **Autonomous Emergency Landing for UAVs**<br>
 <font size="3">Work done at CMU and Near Earth Autonomy, Inc. in collaboration with NASA Langley.</font>
 <br>
 
-<br>
+<br> -->
 
-Selected Projects
+Other Projects
 ======
 
 <br>
@@ -72,10 +90,10 @@ Selected Projects
 <br>
 <br>
 
-<img src="images/actor-critic-snipped.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
+<!-- <img src="images/actor-critic-snipped.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Deep Reinforcement Learning using Actor-Critic Policy Gradients]()**<br>
 <font size="3"><a href="https://goo.gl/CcdPo3">[OpenAI Gym page]</a> <a href="https://goo.gl/lzGQjW">[Code]</a></font><br>
-<br>
+<br> -->
 
 <img src="images/quadruped.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Stable Walking of a Quadruped Robot]()**<br>

@@ -6,13 +6,13 @@ author_profile: true
 redirect_from: 
 ---
 <p align="justify"> 
-I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, advised by <a href="https://homes.cs.washington.edu/~bboots/"> Byron Boots</a>. I am interested in developing theory and algorithms for scalable and efficient robot learning with a specific focus on the intersection of reinforcement learning, model-predictive control and motion planning. I spent summer 2019 as an intern at <a href="https://www.nvidia.com/en-us/research/robotics/">NVIDIA Seattle Robotics Lab</a> with <a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a> and Byron Boots. 
+I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering at the University of Washington, advised by <a href="https://homes.cs.washington.edu/~bboots/"> Byron Boots</a>. I am interested in developing theory and algorithms for scalable and efficient robot learning with a specific focus on the intersection of reinforcement learning, model-predictive control and motion planning.  
 </p>
 <p align="justify"> 
 Before transferring to University of Washington, I spent a year as a Ph.D. Robotics student at <a href="https://www.ic.gatech.edu/">School of Interactive Computing</a>, <a href="https://www.cc.gatech.edu/">College of Computing</a> at <a href="https://www.gatech.edu/">Georgia Tech</a>, prior to which I was a Robotics Engineer at  <a href="http://www.nearearth.aero/">Near Earth Autonomy, Inc.</a> working on motion planning for real-world UAVs. I worked as an Extern at <a href="https://www.ri.cmu.edu/robotics-area/air-lab/">The Air Lab</a> at <a href="https://www.ri.cmu.edu/">The Robotics Institute</a>, <a href="https://www.cmu.edu/">Carnegie Mellon University</a>, with <a href="https://www.ri.cmu.edu/ri-faculty/sebastian-scherer/">Sebastian Scherer</a> on the applying reinforcement and imitation learning to robot motion planning. I graduated my <a href="https://mrsd.ri.cmu.edu/">M.S in Robotic Systems Development </a> from RI in 2016 where I was working on planning for ground vehicles. I completed my B. Tech in Mechanical Engineering from <a href="https://www.iitbhu.ac.in/">Indian Institute of Technology, Varanasi.</a>
 
 </p>
-You can view my CV [here](../files/CV - Mohak Bhardwaj.pdf)
+I spent summer 2019 as an intern at <a href="https://www.nvidia.com/en-us/research/robotics/">NVIDIA Seattle Robotics Lab</a> with <a href="https://homes.cs.washington.edu/~fox/">Dieter Fox</a> and Byron Boots. You can view my CV [here](../files/CV - Mohak Bhardwaj.pdf)
 <p align="justify">
 When not doing research, you'll find me doing <a href="https://www.youtube.com/channel/UCyZBfA5Fc6ODMam54J6UT6w">stand-up and improv comedy</a>. I also enjoy live music, theatre and travelling.
 </p>

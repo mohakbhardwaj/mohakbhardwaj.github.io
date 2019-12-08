@@ -27,7 +27,8 @@ When not busy with research, you'll catch me doing <a href="https://www.youtube.
 Preprints
 ======
 
-[Differentiable Gaussian Process Motion Planning](hhttps://arxiv.org/abs/1907.09591) <font size = "3"> <b>,M. Bhardwaj</b>, B. Boots and M. Mukadam, 2019 <br> 
+[Differentiable Gaussian Process Motion Planning](hhttps://arxiv.org/abs/1907.09591) <font size = "3"><b>,M. Bhardwaj</b>, B. Boots and M. Mukadam, 2019 <br> 
+
 
 Journal and Conference Publications
 ======
@@ -37,7 +38,7 @@ Journal and Conference Publications
 **[Leveraging Experience in Lazy Search](http://www.roboticsproceedings.org/rss15/p50.pdf)**<br>
 Robotics:Science and Systems, 2019<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury, B. Boots and S. Srinivasa <br> 
-<a href="http://www.roboticsproceedings.org/rss15/p50.pdf">[Proceedings]</a> <a href="../files/rss_2019_slides.pdf">[Presentation]</a> <a href="poster_rss_2019.pdf">[Poster]</a> </font>
+<a href="http://www.roboticsproceedings.org/rss15/p50.pdf">[Proceedings]</a> <a href="../files/rss_2019_slides.pdf">[Presentation]</a> <a href="poster_rss_2019">[Poster]</a> </font>
  <br>
  <br>
  <br>

@@ -42,7 +42,6 @@ International Conference on Robotics and Automation, 2020 (Accepted)<br>
 <br>
 <br>
 
-<br>
 <img src="images/lazy_sp.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Leveraging Experience in Lazy Search](http://www.roboticsproceedings.org/rss15/p50.pdf)**<br>
 Robotics:Science and Systems, 2019<br>

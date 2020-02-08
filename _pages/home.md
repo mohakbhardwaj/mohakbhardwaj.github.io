@@ -26,7 +26,7 @@ When not busy with research, you'll catch me doing <a href="https://www.youtube.
 
 Preprints
 ======
-[Information Theoretic Model Predictive Q-Learning](https://arxiv.org/abs/1907.09591) <font size = "3"><b>,M. Bhardwaj</b>, A. Handa, D. Fox and B. Boots, 2020 <br> 
+[Information Theoretic Model Predictive Q-Learning](https://arxiv.org/abs/2001.02153) <font size = "3"><b>M. Bhardwaj</b>, A. Handa, D. Fox and B. Boots, 2020 <br> 
 
 
 Journal and Conference Publications

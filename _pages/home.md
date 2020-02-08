@@ -33,9 +33,9 @@ Journal and Conference Publications
 ======
 
 <br>
-<img src="images/dgpmp2.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+<img src="images/dgpmp2_gif.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Differentiable Gaussian Process Motion Planning](https://arxiv.org/abs/1907.09591)**<br>
-International Conference on Robotics and Automation (Accepted), 2020<br>
+International Conference on Robotics and Automation, 2020 (Accepted)<br>
 <font size = "3"> <b>M. Bhardwaj</b>, B. Boots and M. Mukadam <br> 
 <a href="">[Proceedings]</a>  </font>
 <br>
@@ -54,7 +54,7 @@ Robotics:Science and Systems, 2019<br>
 
 <img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
-International Journal on Robotics Research, 2017 (Best Paper Finalist)<br>
+International Journal on Robotics Research, 2017 <b>(Best Paper Finalist)</b> <br>
 <font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <a href="https://journals.sagepub.com/doi/10.1177/0278364918781001">[Publication]</a></font>
 <br>
 <br>

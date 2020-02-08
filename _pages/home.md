@@ -26,12 +26,21 @@ When not busy with research, you'll catch me doing <a href="https://www.youtube.
 
 Preprints
 ======
-
-[Differentiable Gaussian Process Motion Planning](hhttps://arxiv.org/abs/1907.09591) <font size = "3"><b>,M. Bhardwaj</b>, B. Boots and M. Mukadam, 2019 <br> 
+[Information Theoretic Model Predictive Q-Learning](https://arxiv.org/abs/1907.09591) <font size = "3"><b>,M. Bhardwaj</b>, A. Handa, D. Fox and B. Boots, 2020 <br> 
 
 
 Journal and Conference Publications
 ======
+
+<br>
+<img src="images/dgpmp2.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+**[Differentiable Gaussian Process Motion Planning](https://arxiv.org/abs/1907.09591)**<br>
+International Conference on Robotics and Automation (Accepted), 2020<br>
+<font size = "3"> <b>M. Bhardwaj</b>, B. Boots and M. Mukadam <br> 
+<a href="">[Proceedings]</a>  </font>
+<br>
+<br>
+<br>
 
 <br>
 <img src="images/lazy_sp.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
@@ -39,9 +48,9 @@ Journal and Conference Publications
 Robotics:Science and Systems, 2019<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury, B. Boots and S. Srinivasa <br> 
 <a href="http://www.roboticsproceedings.org/rss15/p50.pdf">[Proceedings]</a> <a href="../files/rss_2019_slides.pdf">[Presentation]</a> <a href="poster_rss_2019">[Poster]</a> </font>
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
 
 <img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **[Data-driven Planning via Imitation Learning](https://arxiv.org/pdf/1711.06391.pdf)**<br>
@@ -56,9 +65,9 @@ International Journal on Robotics Research, 2017 (Best Paper Finalist)<br>
 Conference on Robot  Learning (CoRL),2017<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury and S. Scherer <br> 
 <a href="http://proceedings.mlr.press/v78/bhardwaj17a/bhardwaj17a.pdf">[Proceedings]</a> <a href="../files/corl_ppt.pdf">[Presentation]</a> <a href="https://goo.gl/YXkQAC">[Website]</a></font>
- <br>
- <br>
- <br>
+<br>
+<br>
+<br>
 
 <img src="images/visual_servoing.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **[Real-time dynamic singularity avoidance while visual servoing of a dual-arm space robot](http://delivery.acm.org/10.1145/2790000/2783480/a31-mithun.pdf?ip=128.2.176.221&id=2783480&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&CFID=835725440&CFTOKEN=93115672&__acm__=1512100245_b4011bd3addc9630e032a7b5751e9162)**<br>

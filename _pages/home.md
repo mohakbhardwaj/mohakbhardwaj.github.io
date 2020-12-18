@@ -29,7 +29,7 @@ When not busy with research, you'll catch me doing <a href="https://www.youtube.
 Preprints
 ======
 [Blending MPC & Value Function Approximation for Efficient Reinforcement Learning
-](https://arxiv.org/abs/2012.05909)<font size = "3"><b> M. Bhardwaj</b>, S. Choudhury, B. Boots, 2020 <br> 
+](https://arxiv.org/abs/2012.05909)<br><font size = "3"><b> M. Bhardwaj</b>, S. Choudhury, B. Boots, 2020 <br> 
 
 
 Journal and Conference Publications

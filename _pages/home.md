@@ -27,7 +27,7 @@ When not busy with research, you'll catch me doing <a href="https://www.youtube.
 <!-- I also enjoy live music, theatre and travelling. -->
 </p>
 
-### [Curriculum Vitae (CV)](../files/CV - Mohak Bhardwaj.pdf).
+### [Curriculum Vitae (Updated October 2021)](../files/CV - Mohak Bhardwaj.pdf).
 
 <br>
 

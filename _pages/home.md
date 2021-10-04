@@ -58,7 +58,7 @@ Autonomous Robots, 2021 <br>
 **Data-driven Planning via Imitation Learning**<br>
 International Journal on Robotics Research, 2017 <br>
 <font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <br>
-<b>(Finalist for Paper of the Year)</b>
+<font color="#cc0000"><b>(Finalist for Paper of the Year)</b></font>
 <a href="https://journals.sagepub.com/doi/10.1177/0278364918781001" target="_blank" rel="noopener noreferrer">[Publication]</a> <a href="https://arxiv.org/pdf/1711.06391.pdf" target="_blank" rel="noopener noreferrer">[Arxiv]</a></font>
 <br>
 <br>
@@ -72,7 +72,7 @@ International Journal on Robotics Research, 2017 <br>
 **STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation**<br>
 Conference on Robot Learning (CoRL), 2021<br>
 <font size = "3"> <b>M. Bhardwaj</b>, B. Sundaralingam, A. Mousavian, N. Ratliff, D. Fox, F. Ramos, B. Boots
-<b>(Selected for Oral Talk - 6% Acceptance Rate)</b><br>
+<font color="#cc0000"><b>(Selected for Oral Talk - 6% Acceptance Rate)</b><br></font>
 <a href="https://arxiv.org/abs/2104.13542" target="_blank" rel="noopener noreferrer">[Arxiv]</a> <a href="https://sites.google.com/view/manipulation-mpc/home">[Website]</a> <a href="https://github.com/NVlabs/storm">[Codebase]</a>
 <!-- <a href="http://proceedings.mlr.press/v120/bhardwaj20a/bhardwaj20a.pdf">[Proceedings]</a> -->
 <!-- <a href="https://mohakbhardwaj.github.io/mpq/">[Webpage]</a>  -->

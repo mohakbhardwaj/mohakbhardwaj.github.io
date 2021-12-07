@@ -23,8 +23,9 @@ I had the amazing opportunity to spend Fall 2020 and Summer 2019 as an intern at
 <!-- I have also worked closely with <a href="http://goodrobot.ai/"> Sidd Srinivasa </a> at the <a href="https://personalrobotics.cs.washington.edu/">Personal Robotics Lab</a>.  -->
 
 <p align="justify">
-When not busy with research, you'll catch me doing <a href="https://www.youtube.com/channel/UCyZBfA5Fc6ODMam54J6UT6w" target="_blank" rel="noopener noreferrer">stand-up and improv comedy</a> or practicing Capoeira. 
+When not busy with research, you'll catch me doing stand-up and improv comedy or practicing Capoeira. 
 <!-- I also enjoy live music, theatre and travelling. -->
+<!-- <a href="https://www.youtube.com/channel/UCyZBfA5Fc6ODMam54J6UT6w" target="_blank" rel="noopener noreferrer"> </a> -->
 </p>
 
 ### [Curriculum Vitae (Updated October 2021)](../files/CV - Mohak Bhardwaj.pdf).
@@ -47,8 +48,8 @@ When not busy with research, you'll catch me doing <a href="https://www.youtube.
 <img src="images/lazy_sp.gif" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **Leveraging Experience in Lazy Search**<br>
 Autonomous Robots, 2021 <br>
-<font size="3"> <b>M. Bhardwaj</b>, S. Choudhury, B. Boots, S. Srinivasa </font>
-<br>
+<font size="3"> <b>M. Bhardwaj</b>, S. Choudhury, B. Boots, S. Srinivasa <br>
+<a href="https://bit.ly/3Gpr6sO" target="_blank" rel="noopener noreferrer">[Publication]</a> <a href="https://arxiv.org/pdf/2110.04669.pdf" target="_blank" rel="noopener noreferrer">[Arxiv]</a></font>
 <br>
 <br>
 <br>
@@ -57,7 +58,7 @@ Autonomous Robots, 2021 <br>
 <img src="images/data_driven_planning.png" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 1px outset;">
 **Data-driven Planning via Imitation Learning**<br>
 International Journal on Robotics Research, 2017 <br>
-<font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S.Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <br>
+<font size="3">S. Choudhury, <b>M. Bhardwaj</b>, S. Arora, A. Kapoor, G. Ranade, S. Scherer and D. Dey <br>
 <font color="#cc0000"><b>(Finalist for Paper of the Year)</b></font>
 <a href="https://journals.sagepub.com/doi/10.1177/0278364918781001" target="_blank" rel="noopener noreferrer">[Publication]</a> <a href="https://arxiv.org/pdf/1711.06391.pdf" target="_blank" rel="noopener noreferrer">[Arxiv]</a></font>
 <br>
@@ -68,14 +69,12 @@ International Journal on Robotics Research, 2017 <br>
 
 
 <br>
-<img src="images/storm_coll_demo.gif" alt="" width="250" height="200" align="left" hspace="20" style=" border: #000000 2px outset;">
+<img src="images/storm_coll_demo.gif" alt="" width="250" height="250" align="left" hspace="20" style=" border: #000000 2px outset;">
 **STORM: An Integrated Framework for Fast Joint-Space Model-Predictive Control for Reactive Manipulation**<br>
-Conference on Robot Learning (CoRL), 2021<br>
+Conference on Robot Learning (CoRL), 2021
 <font size = "3"> <b>M. Bhardwaj</b>, B. Sundaralingam, A. Mousavian, N. Ratliff, D. Fox, F. Ramos, B. Boots
-<font color="#cc0000"><b>(Selected for Oral Talk - 6% Acceptance Rate)</b><br></font>
-<a href="https://arxiv.org/abs/2104.13542" target="_blank" rel="noopener noreferrer">[Arxiv]</a> <a href="https://sites.google.com/view/manipulation-mpc/home">[Website]</a> <a href="https://github.com/NVlabs/storm">[Codebase]</a>
-<!-- <a href="http://proceedings.mlr.press/v120/bhardwaj20a/bhardwaj20a.pdf">[Proceedings]</a> -->
-<!-- <a href="https://mohakbhardwaj.github.io/mpq/">[Webpage]</a>  -->
+<font size="3" color="#cc0000"><b>(Selected for Oral Talk - 6% Acceptance)</b></font>
+<a href="https://openreview.net/forum?id=ceOmpjMhlyS">[Proceedings]</a><a href="https://arxiv.org/abs/2104.13542" target="_blank" rel="noopener noreferrer">[Arxiv]</a> <a href="https://sites.google.com/view/manipulation-mpc/home">[Website]</a> <a href="https://github.com/NVlabs/storm">[Codebase]</a><a href="../files/poster_storm_corl_2021.png">[Poster]</a>
 </font>
 <br>
 
@@ -84,8 +83,7 @@ Conference on Robot Learning (CoRL), 2021<br>
 **Blending MPC & Value Function Approximation for Efficient Reinforcement Learning**<br>
 International Conference on Learning Representations (ICLR), 2021<br>
 <font size = "3"> <b>M. Bhardwaj</b>, S. Choudhury, B.Boots 
-<a href="http://proceedings.mlr.press/v120/bhardwaj20a/bhardwaj20a.pdf">[Proceedings]</a> <a href="https://arxiv.org/abs/2012.05909">[Arxiv]</a> 
-<!-- <a href="https://mohakbhardwaj.github.io/mpq/">[Webpage]</a>  -->
+<a href="https://arxiv.org/abs/2012.05909">[Arxiv]</a> 
 </font>
 <br>
 

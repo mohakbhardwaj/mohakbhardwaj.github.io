@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               : mohak.bhardwaj
+  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -86,13 +86,13 @@ author:
   location         : "Seattle, WA, USA"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=-ki9u4sAAAAJ&hl=en"
-  email            : "mohak.bhardwaj@gmail.com"
+  email            : "mohakb@cs.washington.edu"
   uri              :
   bitbucket        : 
   codepen          :
   dribbble         :
   flickr           : 
-  facebook         : "mohak.bhardwaj"
+  facebook         : 
   foursquare       :
   github           : "mohakbhardwaj"
   google_plus      :
@@ -110,7 +110,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "yZBfA5Fc6ODMam54J6UT6w"
+  youtube          : #"yZBfA5Fc6ODMam54J6UT6w"
   wikipedia        :
 
 

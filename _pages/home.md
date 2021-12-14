@@ -28,7 +28,7 @@ When not busy with research, you'll catch me doing stand-up and improv comedy or
 <!-- <a href="https://www.youtube.com/channel/UCyZBfA5Fc6ODMam54J6UT6w" target="_blank" rel="noopener noreferrer"> </a> -->
 </p>
 
-### [Curriculum Vitae (Updated October 2021)](../files/CV - Mohak Bhardwaj.pdf).
+### [Curriculum Vitae (Updated December 2021)](../files/CV - Mohak Bhardwaj.pdf).
 
 <br>
 

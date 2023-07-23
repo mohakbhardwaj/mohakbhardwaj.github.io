@@ -1,0 +1,298 @@
+/* Reset some default styles */
+
+
+main {
+width: 100%;
+max-width: 800px;
+text-align: center;
+padding: 20px;
+margin: 0 auto;
+    }
+
+/* Add styles for header section */
+#header {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-bottom: 20px;
+    gap: 100px;
+  }
+  
+  .profile img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-right: -20px;
+  }
+  
+  .contact {
+    text-align: left;
+    margin-top: 0px
+  }
+  
+  .contact p {
+    margin-bottom: 10px;
+  }
+
+  .contact .email {
+    font-family: "Courier New", Courier, monospace; /* Change to monospaced font */
+  }
+  
+  .social-media {
+    display: flex;
+    gap: 3px;
+  }
+
+  .social-media img {
+    width: 60px; /* Adjust the width as needed */
+    height: 60px; /* Adjust the height as needed */
+    border: none; /* Remove the border */
+    border-radius: 50%; /* Add rounded edges */
+  }
+
+  body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Open Sans', Geneva, Verdana, sans-serif;
+    background-color:#f8f8f8e7;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  header {
+    background-color: #f8f8f8e7;
+    color: #5a5858;
+    padding: 10px;
+  }
+
+
+
+
+  nav ul li a {
+    color: #000000; /* Add color property */
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    color: #555; /* Add color property for hover state */
+  }
+  
+  nav ul {
+    list-style: none;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #0c0b0b;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h1, h2, h3 {
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  img {
+    width: 250px;
+    height: 200px;
+    margin-right: 20px;
+    border: 2px solid #100f0f; /* Add border style */
+    border-radius: 4px; /* Optional: Add border radius for rounded corners */
+}
+
+h1 {
+    color: #00447c; /* Change the color of all h2 headings */
+  }
+
+
+h2 {
+    color: #00447c; /* Change the color of all h2 headings */
+  }
+
+ul li {
+  display: flex;
+  align-items: flex-start; /* Add align-items property */
+}
+
+
+ul li h3 {
+    text-align: left;
+    margin-top: 20px; /* Add margin-top property */
+  }
+  
+  .publication-info {
+    flex-grow: 1;
+  }
+  
+  .date {
+    display: inline-block;
+    margin-right: 10px;
+    color: #888;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+
+  h2, p {
+    text-align: left;
+    max-width: 100%;
+  }
+
+/* Add a class for right-aligning the heading */
+
+  .right-align {
+    text-align: right;
+  }
+
+
+/* Add a class for right-aligning the heading */
+
+  .center-align {
+    text-align: center;
+  }
+
+
+  .left-align {
+    text-align: left;
+  }
+
+  .header-divider {
+    width: 800px;
+    height: 1px;
+    background-color: #ccc;
+    margin-bottom: 20px;
+  }
+
+  a {
+    text-decoration: underline; /* Remove underline */
+    color: inherit; /* Change link color to a lighter blue */
+  }
+  
+  a:hover {
+    text-decoration: underline; /* Add underline on hover */
+    color: #0b7b9e; /* Change link color on hover */
+  }
+
+
+  #research {
+    margin-bottom: 20px;
+  }
+  
+  #research .sub-section {
+    margin-bottom: 30px;
+  }
+  
+  #research .sub-section h3 {
+    text-align: left; /* Left align the sub-section headings */
+
+  }
+  
+  #research ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #research li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+
+  #research ol li h4 {
+    text-align: left
+  }
+  
+  #research li img {
+    width: 250px;
+    height: 200px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    margin-right: 20px;
+  }
+  
+  #research .publication-info {
+    text-align: left;
+  }
+  
+  #research .publication-info h4 {
+    text-align: left;
+    margin: 0;
+    margin-top: -100px; /* Adjust the negative margin as needed */
+  }
+
+  #research .publication-info p {
+    font-size: 14px; /* Adjust the font size as desired */
+  }
+
+  #research .publication-info a {
+    font-family: "Courier New", Courier, monospace; /* Set font family to monospaced */
+    font-size: 14px; /* Adjust font size as needed */
+    text-decoration: none;
+  }
+
+  #research .preprint-info {
+    text-align: left;
+  }
+  
+  #research .preprint-info h4 {
+    text-align: left;
+    margin: 0;
+    margin-top: 0; /* Adjust the negative margin as needed */
+  }
+
+  #research .preprint-info p {
+    font-size: 16px; /* Adjust the font size as desired */
+  }
+
+  #research .preprint-info a {
+    font-family: "Courier New", Courier, monospace; /* Set font family to monospaced */
+    font-size: 14px; /* Adjust font size as needed */
+    text-decoration: none;
+  }
+
+
+
+  .section-divider {
+    width: 800px;
+    height: 1px;
+    background-color: #dddbdb;
+    margin-bottom: 20px;
+  } 
+
+  footer {
+    background-color: #f8f8f8e7;
+    color: #5a5858;
+    padding: 10px;
+  }
